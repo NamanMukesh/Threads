@@ -61,7 +61,7 @@ chat-app/
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/driveon.git
+   git clone https://github.com/your-username/Threads.git
    cd driveon
 
 2. Install frontend dependencies:
@@ -82,7 +82,6 @@ chat-app/
    CLOUDINARY_API_SECRET='cloudinary-api-secret'
 5. Setup environment variables in client/.env:
    ```bash
-   VITE_CURRENCY=Rs.
    VITE_BASE_URL=you-server-url
 6. Run the application:
    ```bash
